@@ -1,0 +1,56 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/android_device_lge_mako",
+        "target_path":  "device/lge/mako",
+        "revision":     "aosp-7.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/android_kernel_qcom_msm8960",
+        "target_path":  "kernel/qcom/msm8960",
+        "revision":     "stable"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/proprietary_vendor_lge",
+        "target_path":  "vendor/lge",
+        "revision":     "aosp-7.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/proprietary_vendor_qcom",
+        "target_path":  "vendor/qcom",
+        "revision":     "aosp-7.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/android_external_stlport",
+        "target_path":  "external/stlport",
+        "revision":     "aosp-7.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "aosp-7.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "aosp-7.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/android_hardware_qcom_keymaster",
+        "target_path":  "hardware/qcom/keymaster",
+        "revision":     "aosp-7.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Unlegacy-Android/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "aosp-7.1"
+    }
+]
