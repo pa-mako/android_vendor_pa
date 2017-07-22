@@ -1,56 +1,43 @@
 [
     {
         "remote":       "github",
-        "repository":   "Unlegacy-Android/android_device_lge_mako",
+        "repository":   "pa-mako/android_device_lge_mako",
         "target_path":  "device/lge/mako",
-        "revision":     "aosp-7.1"
+        "revision":     "nougat_mr2"
     },
     {
         "remote":       "github",
-        "repository":   "Unlegacy-Android/android_kernel_qcom_msm8960",
-        "target_path":  "kernel/qcom/msm8960",
-        "revision":     "stable"
+        "repository":   "pa-mako/android_kernel_lge_mako",
+        "target_path":  "kernel/lge/mako",
+        "revision":     "nougat_mr2"
     },
     {
         "remote":       "github",
-        "repository":   "Unlegacy-Android/proprietary_vendor_lge",
-        "target_path":  "vendor/lge",
-        "revision":     "aosp-7.1"
+        "repository":   "nitrogen-os-devices/android_vendor_lge_mako",
+        "target_path":  "vendor/lge/mako",
+        "revision":     "n2"
     },
     {
         "remote":       "github",
-        "repository":   "Unlegacy-Android/proprietary_vendor_qcom",
-        "target_path":  "vendor/qcom",
-        "revision":     "aosp-7.1"
-    },
-    {
-        "remote":       "github",
-        "repository":   "Unlegacy-Android/android_external_stlport",
-        "target_path":  "external/stlport",
-        "revision":     "aosp-7.1"
-    },
-    {
-        "remote":       "github",
-        "repository":   "Unlegacy-Android/android_hardware_qcom_audio",
+        "repository":   "nitrogen-project/android_hardware_qcom_audio",
         "target_path":  "hardware/qcom/audio",
-        "revision":     "aosp-7.1"
+        "revision":     "n2"
     },
     {
         "remote":       "github",
-        "repository":   "Unlegacy-Android/android_hardware_qcom_display",
+        "repository":   "AOSPA/android_hardware_qcom_display",
         "target_path":  "hardware/qcom/display",
-        "revision":     "aosp-7.1"
+        "revision":     "nougat-mr2-aosp"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA/android_hardware_qcom_media",
+        "revision":     "nougat-mr2-aosp"
     },
     {
         "remote":       "github",
         "repository":   "Unlegacy-Android/android_hardware_qcom_keymaster",
         "target_path":  "hardware/qcom/keymaster",
-        "revision":     "aosp-7.1"
-    },
-    {
-        "remote":       "github",
-        "repository":   "Unlegacy-Android/android_hardware_qcom_media",
-        "target_path":  "hardware/qcom/media",
         "revision":     "aosp-7.1"
     }
 ]
