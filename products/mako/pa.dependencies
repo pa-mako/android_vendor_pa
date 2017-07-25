@@ -13,6 +13,12 @@
     },
     {
         "remote":       "github",
+        "repository":   "pa-mako/android_hardware_qcom_msm8960",
+        "target_path":  "hardware/qcom/msm8960",
+        "revision":     "nougat_mr2"
+    },
+    {
+        "remote":       "github",
         "repository":   "nitrogen-os-devices/android_vendor_lge_mako",
         "target_path":  "vendor/lge/mako",
         "revision":     "n2"
@@ -32,6 +38,7 @@
     {
         "remote":       "github",
         "repository":   "AOSPA/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",        
         "revision":     "nougat-mr2-aosp"
     },
     {
