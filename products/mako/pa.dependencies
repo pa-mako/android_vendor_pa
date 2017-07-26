@@ -25,6 +25,12 @@
     },
     {
         "remote":       "github",
+        "repository":   "nitrogen-project/android_external_tinycompress",
+        "target_path":  "external/tinycompress",
+        "revision":     "n2-caf"
+    },
+    {
+        "remote":       "github",
         "repository":   "nitrogen-project/android_hardware_qcom_audio",
         "target_path":  "hardware/qcom/audio",
         "revision":     "n2"
