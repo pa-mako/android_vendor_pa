@@ -3,6 +3,9 @@ ifeq (pa_mako,$(TARGET_PRODUCT))
 # Use AOSP Camera Application
 TARGET_USES_AOSP_CAMERA := true
 
+# Disable CLANG
+TARGET_BIONIC_DISABLE_CLANG := true
+
 # Get the defaults going.
 TARGET_BOOT_ANIMATION_RES := 720
 
